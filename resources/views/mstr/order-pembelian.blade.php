@@ -41,7 +41,7 @@
                                 </div>
                                 <div class="col-6 mt-3">
                                     <label for="">tanggal</label>
-                                    <input type="date" class="form-control" value="">
+                                    <input type="date" class="form-control tgl_now" value="">
                                 </div>
                                 <div class="col-6 mt-3">
                                     <label for="">Suplier</label>
